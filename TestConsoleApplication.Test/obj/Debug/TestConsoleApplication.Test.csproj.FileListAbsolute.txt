@@ -1,0 +1,13 @@
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\TestConsoleApplication.Test.dll
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\TestConsoleApplication.Test.pdb
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\nunit.framework.dll
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\nunit.framework.xml
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\obj\Debug\TestConsoleApplication.Test.csprojResolveAssemblyReference.cache
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\obj\Debug\TestConsoleApplication.Test.dll
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\obj\Debug\TestConsoleApplication.Test.pdb
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\TestConsoleApplication.exe
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\TestConsoleApplication.pdb
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\AppData\Northwind.sdf
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\TestConsoleApplication.Test.dll.config
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\EntityFramework.dll
+C:\Users\u3696174\Documents\Visual Studio 2012\Projects\TestConsoleApplication\TestConsoleApplication.Test\bin\Debug\EntityFramework.xml
